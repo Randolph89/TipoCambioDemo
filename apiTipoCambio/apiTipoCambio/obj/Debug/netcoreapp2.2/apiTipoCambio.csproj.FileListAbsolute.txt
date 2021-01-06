@@ -1,0 +1,34 @@
+C:\Users\USER ASUS\source\repos\apiTipoCambio\apiTipoCambio\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\USER ASUS\source\repos\apiTipoCambio\apiTipoCambio\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\USER ASUS\source\repos\apiTipoCambio\apiTipoCambio\bin\Debug\netcoreapp2.2\apiTipoCambio.deps.json
+C:\Users\USER ASUS\source\repos\apiTipoCambio\apiTipoCambio\bin\Debug\netcoreapp2.2\apiTipoCambio.runtimeconfig.json
+C:\Users\USER ASUS\source\repos\apiTipoCambio\apiTipoCambio\bin\Debug\netcoreapp2.2\apiTipoCambio.runtimeconfig.dev.json
+C:\Users\USER ASUS\source\repos\apiTipoCambio\apiTipoCambio\bin\Debug\netcoreapp2.2\apiTipoCambio.dll
+C:\Users\USER ASUS\source\repos\apiTipoCambio\apiTipoCambio\bin\Debug\netcoreapp2.2\apiTipoCambio.pdb
+C:\Users\USER ASUS\source\repos\apiTipoCambio\apiTipoCambio\obj\Debug\netcoreapp2.2\apiTipoCambio.csprojAssemblyReference.cache
+C:\Users\USER ASUS\source\repos\apiTipoCambio\apiTipoCambio\obj\Debug\netcoreapp2.2\apiTipoCambio.AssemblyInfoInputs.cache
+C:\Users\USER ASUS\source\repos\apiTipoCambio\apiTipoCambio\obj\Debug\netcoreapp2.2\apiTipoCambio.AssemblyInfo.cs
+C:\Users\USER ASUS\source\repos\apiTipoCambio\apiTipoCambio\obj\Debug\netcoreapp2.2\apiTipoCambio.csproj.CoreCompileInputs.cache
+C:\Users\USER ASUS\source\repos\apiTipoCambio\apiTipoCambio\obj\Debug\netcoreapp2.2\apiTipoCambio.RazorAssemblyInfo.cache
+C:\Users\USER ASUS\source\repos\apiTipoCambio\apiTipoCambio\obj\Debug\netcoreapp2.2\apiTipoCambio.RazorAssemblyInfo.cs
+C:\Users\USER ASUS\source\repos\apiTipoCambio\apiTipoCambio\obj\Debug\netcoreapp2.2\apiTipoCambio.RazorTargetAssemblyInfo.cache
+C:\Users\USER ASUS\source\repos\apiTipoCambio\apiTipoCambio\obj\Debug\netcoreapp2.2\apiTipoCambio.dll
+C:\Users\USER ASUS\source\repos\apiTipoCambio\apiTipoCambio\obj\Debug\netcoreapp2.2\apiTipoCambio.pdb
+C:\Users\USER ASUS\source\repos\apiTipoCambio\apiTipoCambio\obj\Debug\netcoreapp2.2\apiTipoCambio.genruntimeconfig.cache
+C:\Users\fu70401138-ext\Documents\DemoTipoCambio\TipoCambioDemo\apiTipoCambio\apiTipoCambio\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\fu70401138-ext\Documents\DemoTipoCambio\TipoCambioDemo\apiTipoCambio\apiTipoCambio\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\fu70401138-ext\Documents\DemoTipoCambio\TipoCambioDemo\apiTipoCambio\apiTipoCambio\bin\Debug\netcoreapp2.2\apiTipoCambio.deps.json
+C:\Users\fu70401138-ext\Documents\DemoTipoCambio\TipoCambioDemo\apiTipoCambio\apiTipoCambio\bin\Debug\netcoreapp2.2\apiTipoCambio.runtimeconfig.json
+C:\Users\fu70401138-ext\Documents\DemoTipoCambio\TipoCambioDemo\apiTipoCambio\apiTipoCambio\bin\Debug\netcoreapp2.2\apiTipoCambio.runtimeconfig.dev.json
+C:\Users\fu70401138-ext\Documents\DemoTipoCambio\TipoCambioDemo\apiTipoCambio\apiTipoCambio\bin\Debug\netcoreapp2.2\apiTipoCambio.dll
+C:\Users\fu70401138-ext\Documents\DemoTipoCambio\TipoCambioDemo\apiTipoCambio\apiTipoCambio\bin\Debug\netcoreapp2.2\apiTipoCambio.pdb
+C:\Users\fu70401138-ext\Documents\DemoTipoCambio\TipoCambioDemo\apiTipoCambio\apiTipoCambio\obj\Debug\netcoreapp2.2\apiTipoCambio.AssemblyInfoInputs.cache
+C:\Users\fu70401138-ext\Documents\DemoTipoCambio\TipoCambioDemo\apiTipoCambio\apiTipoCambio\obj\Debug\netcoreapp2.2\apiTipoCambio.AssemblyInfo.cs
+C:\Users\fu70401138-ext\Documents\DemoTipoCambio\TipoCambioDemo\apiTipoCambio\apiTipoCambio\obj\Debug\netcoreapp2.2\apiTipoCambio.csproj.CoreCompileInputs.cache
+C:\Users\fu70401138-ext\Documents\DemoTipoCambio\TipoCambioDemo\apiTipoCambio\apiTipoCambio\obj\Debug\netcoreapp2.2\apiTipoCambio.RazorAssemblyInfo.cache
+C:\Users\fu70401138-ext\Documents\DemoTipoCambio\TipoCambioDemo\apiTipoCambio\apiTipoCambio\obj\Debug\netcoreapp2.2\apiTipoCambio.RazorAssemblyInfo.cs
+C:\Users\fu70401138-ext\Documents\DemoTipoCambio\TipoCambioDemo\apiTipoCambio\apiTipoCambio\obj\Debug\netcoreapp2.2\apiTipoCambio.RazorTargetAssemblyInfo.cache
+C:\Users\fu70401138-ext\Documents\DemoTipoCambio\TipoCambioDemo\apiTipoCambio\apiTipoCambio\obj\Debug\netcoreapp2.2\apiTipoCambio.dll
+C:\Users\fu70401138-ext\Documents\DemoTipoCambio\TipoCambioDemo\apiTipoCambio\apiTipoCambio\obj\Debug\netcoreapp2.2\apiTipoCambio.pdb
+C:\Users\fu70401138-ext\Documents\DemoTipoCambio\TipoCambioDemo\apiTipoCambio\apiTipoCambio\obj\Debug\netcoreapp2.2\apiTipoCambio.genruntimeconfig.cache
+C:\Users\fu70401138-ext\Documents\DemoTipoCambio\TipoCambioDemo\apiTipoCambio\apiTipoCambio\obj\Debug\netcoreapp2.2\apiTipoCambio.csprojAssemblyReference.cache
